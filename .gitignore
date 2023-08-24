@@ -1,0 +1,5 @@
+# Project exclude paths
+/ApiGateway/target/
+/DiscoveryServer/target/
+/InventoryServiceFinal/target/
+/ProductService/target/
